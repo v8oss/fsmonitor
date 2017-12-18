@@ -1,7 +1,7 @@
 package fsmonitor
 
 import (
-	"github.com/v8oss/fsmonitor"
+	"github.com/fsnotify/fsnotifyr"
 	"os"
 	"path/filepath"
 )
